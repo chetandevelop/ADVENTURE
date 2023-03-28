@@ -1,0 +1,320 @@
+/********************* Head Section *****************/
+.topsection{
+    background-image: url("images/banner-bg.png");
+    color: #ffffff;
+   background-size: 1060px;
+    height: 658px;
+    
+}
+
+.nav-link{
+ margin-top: 5%;
+    margin-bottom: 5%;
+    color: #fff;
+    font-size: 1.0rem;
+    font-weight: 500;
+      border-color:#2b2278;
+    
+}
+
+.nav-link:hover{
+    color: #fff;
+   background-color: #2b2278;
+    border-radius: 30px;
+}
+
+.firsthead{
+    margin-top: 2%;
+   margin-left: 30%;
+    margin-bottom: 2%;
+    font-weight: 800;
+    font-size: 4.0rem;
+      border-color:#2b2278;
+}
+
+.firsthead:hover{
+    color: #2b2278;
+}
+
+.paragraph{
+    width: 82%;
+    margin-left: 14%;
+    font-weight: 400;
+    font-size:0.96rem;
+}
+
+.topbtn{
+    margin-left: 43%;
+    padding-left: 22px;
+    padding-right: 22px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 25px;
+    font-size: 1.1rem;
+    font-weight: 400;
+    background-color: #fff;
+    border-color: #2b2278;
+}
+
+.topbtn:hover{
+    background-color: #2b2278;
+    color: #fff;   
+}
+
+/********************* Services Section *****************/
+.servicesbtn{
+
+    border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 16px;
+    font-weight: bold;
+  background: #000d10;
+  padding: 6px 21px 6px 21px;
+  text-decoration: none;    
+}
+
+.servicesbtn:hover{
+    background: #2B2278;
+  text-decoration: none;
+   
+}
+.services2btn{
+font-weight: bold;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 16px;
+  background: #2B2278;
+  padding: 9px 21px 8px 20px;
+  text-decoration: none;
+}
+
+.services2btn:hover {
+  background: #000d10;
+  text-decoration: none;
+} 
+    
+
+
+/********************* About Section *****************/
+
+.aboutbtn{
+    margin-top: 1%;
+    margin-left: 3%;
+       background-color: #000d10;
+    color: #fff;
+    border-radius: 30px;
+    font-weight: 600;
+    font-size: 1.3rem;
+    padding-top: 1%;
+    padding-left: 3%;
+    padding-right: 3%;
+    padding-bottom: 1%;
+    
+    
+}
+.aboutbtn:hover{
+  background-color: #2b2278;
+    color: #ffff;
+}
+
+/******************* Video Section*****************/
+
+.ourvideo{
+    
+  margin-top: 13%;
+    background-image: url(images/blog-bg.png);
+      background-size: 1060px;
+    height: 765px;
+    margin-bottom:5%;   
+}
+
+.seevid{
+  padding-top:22%; 
+    padding-left:40%;
+    position: relative;
+    color: #fff;
+}
+
+.inform{
+  color: #fff;
+    width: 53%;
+    position: relative;
+   margin-left: 28%;
+
+}
+
+/*********************** Testimonial Section********************/
+
+.testparagraph{
+width:50%;
+height: 275px;    
+float: left;
+border: solid #000000; 2px;
+    margin-left: 5%;
+    margin-top: 3%;
+    border-radius: 25px;
+    padding-left: 4%;
+    padding-right: 4%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+.clientpic{
+    width:125px;
+    margin-left:3%;
+    margin-top: 10%;
+    
+}
+
+.damecus{
+   float: right;
+   position: relative;
+    bottom: 30%;
+    right: 10%;
+    color: #012628;
+    font-size: 1.3rem;
+  
+}
+.shadow{
+    padding-top: 3%;
+    padding-bottom: 5%;
+    margin-top: 2%;
+    margin-bottom: 50px;
+    margin-left: 100px;
+        box-shadow: 0px 0px 4px black,
+               0px 0px 8px black,
+                0px 0px 12px black 
+}
+
+/**************************** READ SECTION********************/
+.readbtn{
+    margin-top:3%;
+    margin-left:45%;
+    margin-bottom: 5%;
+    background-color: #000d10;
+    color: #fff;
+    border-radius: 30px;
+    font-weight: 600;
+    font-size: 1.3rem;
+    padding-top: 1%;
+    padding-left: 3%;
+    padding-right: 3%;
+    padding-bottom: 1%;
+   border-color:#2b2278;
+}
+
+.readbtn:hover{
+    
+    background-color: #2b2278;
+    color: #FFFF;
+}
+
+/************************* Talk Us Section****************/
+.talkus{
+   width: 76%;
+   border: solid black 2px;
+      border-radius: 30px;
+margin-bottom: 12%;
+    margin-top: 4%;
+}
+
+.talkstart{
+   font-size: 2.5rem;
+    font-weight: 600;
+    margin-top: 1%;
+     border-radius: 30px;
+    padding-top: 2%;
+     padding-left: 4%;
+    padding-bottom: 3%;
+}
+
+
+.Quetobtn{
+    font-size: 1.0rem;
+  border-color:#2b2278;
+    background-color: #2b2278;
+    color: #fff;
+    border-radius: 30px;
+    padding-top:6%;
+    padding-bottom: 6%;
+    padding-left: 8%;
+    padding-right: 8%;
+    margin-top: 15%;
+    margin-left:10%;    
+    
+}
+.Quetobtn:hover{
+      background-color:#000d10;
+    color: #fff;  
+    
+}
+
+/******************************FOOTER SECTION*******************/
+footer{
+ background-image: url(images/footer-bg.png);
+    background-size: 1070px;
+    height: 485px;
+          
+}
+
+.footsec{
+ color:pink; 
+    margin-left: 40%;
+    margin-top: 1; 
+}
+.footsec:hover{
+    color:  #2b2278;
+}
+
+.lastsec{
+    background-color: darkslategray;
+    color: #ffff;
+    padding-bottom: 2%;
+    padding-top:2%;
+    margin-top: 7px;
+    text-align: center;
+}
+
+.lastsec:hover{
+     color: #080212;
+}
+
+/************************ Form SECTION**********************/
+.sendbtn{
+    margin-left:45%;
+    margin-top: 3%;
+    border-radius: 30px;
+    background-color:#000d10;
+    color: #fff;
+    font-size: 1.3rem;
+    font-weight: 500;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 11px;
+    padding-bottom: 11px;
+}
+
+.sendbtn:hover{
+    color: #ffff;
+background-color: #2b2278;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
